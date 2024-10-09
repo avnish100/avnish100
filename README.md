@@ -1,6 +1,11 @@
 <h1>Hi 👋, I'm Avnish</h1>
-<p>A passionate frontend developer from Bengaluru. More of me at https://avnishjha.netlify.app/</p>
+<p>A passionate developer from Bengaluru. More of me at https://avnisharyanjha.com </p>
 <h2>🚀 Languages and Tools I Use</h2>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avnish100&theme=city_lights) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avnish100&theme=city_lights)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avnish100&theme=city_lights)
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
